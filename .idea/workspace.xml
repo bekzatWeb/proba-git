@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fc85ef3-bd36-483f-b35a-a9b6a15854dc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="tsconfig.json" />
+        <option value="package.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ga703KRdEWnwaNWJXWlLE3blvU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;HTML&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fc85ef3-bd36-483f-b35a-a9b6a15854dc" name="Changes" comment="" />
+      <created>1666614614173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666614614173</updated>
+      <workItem from="1666614615556" duration="58000" />
+      <workItem from="1666614676315" duration="2000" />
+      <workItem from="1666614704301" duration="523000" />
+      <workItem from="1666615269855" duration="27000" />
+      <workItem from="1666615311022" duration="273000" />
+      <workItem from="1666615937852" duration="848000" />
+      <workItem from="1666616827806" duration="657000" />
+      <workItem from="1666617558551" duration="139000" />
+      <workItem from="1666617744718" duration="145000" />
+      <workItem from="1666617912779" duration="2754000" />
+      <workItem from="1666622253432" duration="3776000" />
+      <workItem from="1666626098687" duration="154000" />
+      <workItem from="1666626279534" duration="447000" />
+      <workItem from="1666626746744" duration="201000" />
+      <workItem from="1666626966399" duration="1668000" />
+      <workItem from="1666634481917" duration="1362000" />
+      <workItem from="1666702042699" duration="488000" />
+      <workItem from="1666703182857" duration="1492000" />
+      <workItem from="1666726067038" duration="1103000" />
+      <workItem from="1666762375323" duration="7000" />
+      <workItem from="1666881293007" duration="88000" />
+      <workItem from="1666881545314" duration="640000" />
+      <workItem from="1666882207353" duration="298000" />
+      <workItem from="1666882516618" duration="411000" />
+      <workItem from="1666884450226" duration="594000" />
+      <workItem from="1666887661370" duration="42000" />
+      <workItem from="1667230625991" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

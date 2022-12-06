@@ -1,0 +1,170 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: #030d1f;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+button{
+    transition: .4s;
+    cursor: pointer;
+    border: none;
+    padding: 10px 20px;
+    background: #EE4248;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+button:hover{
+    transform: scale(1.1);
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    cursor: pointer;
+    color: red;
+    text-decoration-line: underline;
+}
+.body-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.body-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 0;
+}
+.body-3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.body-4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 0;
+}
+.body-h1{
+    padding: 80px 0;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    color: #1F2E35;
+}
+.body-2-title h1{
+    padding: 30px 0;
+}
+.header-go{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 0;
+}
+.header-go-a{
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0 20px;
+    transition: .6s;
+    color: rgba(31, 46, 53, 0.8);
+}
+.header-go-a a{
+    padding: 0 10px;
+    color: #FFFFFF;
+}
+.header-go-icons img{
+    padding: 0 5px;
+}
+.title{
+    background:darkseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px 0;
+}
+.title a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0 20px;
+    transition: .6s;
+    color:white;
+    background: darkseagreen;
+}
+.title a:hover {
+    cursor: pointer;
+    color: red;
+    text-decoration-line: underline;
+}
+.body-title p{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color:white;
+    padding: 30px 0;
+    opacity: 0.7;
+}
+.body-2 p{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+    padding: 30px 0;
+    opacity: 0.7;
+}
+.body-3 p{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+    padding: 30px 0;
+    opacity: 0.7;
+}
+.body-4 p{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+    padding: 30px 0;
+    opacity: 0.7;
+}
+.body h1{
+    color: #FFFFFF;
+    opacity: 0.7;
+}
+.body-1 h1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    color: white;
+    opacity: 0.7;
+}
+.body-2 h1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    color: white;
+    opacity: 0.7;
+}
+.body-3 h1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    color: white;
+    opacity: 0.7;
+}
+.body-4 h1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    color: white;
+    opacity: 0.7;
+}
